@@ -1,5 +1,5 @@
 # PlatziConf_App
-Mi primera aplicación Android, el proyecto consta de usar la pagina de Platzi Conference y hacerla un App movil en android, con uso de Kotlin y Cloud Firestore para almacenar la información y el uso de Api de Google maps.
+Mi primera aplicación Android,siguiendo el proyecto del curso de Android de Platzi, consta de usar la pagina de Platzi Conference y hacerla un App movil en android, con uso de Kotlin y Cloud Firestore para almacenar la información y el uso de Api de Google maps.
 ![image](https://user-images.githubusercontent.com/60903552/127709277-c1f90dcb-ea5e-4667-9103-96bc6ae1e569.png)
 ![image](https://user-images.githubusercontent.com/60903552/127709622-a8a33597-44f4-4412-a821-dc20e6c34d30.png)
 ![image](https://user-images.githubusercontent.com/60903552/127709661-92068c14-86bc-4cea-b4b5-14d5c580681e.png)
