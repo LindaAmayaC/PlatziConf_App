@@ -29,17 +29,18 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_above="@+id/bnvMenu"
-            app:navGraph="@navigation/nav_graph"
-            app:defaultNavHost="true"/>
+            android:layout_marginBottom="-8dp"
+            app:defaultNavHost="true"
+            app:navGraph="@navigation/nav_graph" />
 
         <com.google.android.material.bottomnavigation.BottomNavigationView
             android:id="@+id/bnvMenu"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
-            android:layout_marginBottom="1dp"
+            android:layout_marginBottom="10dp"
             app:backgroundTint="#FFF"
-            app:menu="@menu/bnv_menu"/>
+            app:menu="@menu/bnv_menu" />
     </RelativeLayout>
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
 

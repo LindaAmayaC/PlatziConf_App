@@ -30,11 +30,12 @@
                         android:layout_height="wrap_content"
                         android:src="@drawable/platzi_conf_2"
                         android:scaleType="centerCrop"/>
+
                     <View
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:background="@color/colorPrimary"
-                        android:alpha="0.5"/>
+                        android:alpha="0.5"
+                        android:background="@color/colorPrimary" />
                     <TextView
                         android:id="@+id/tvItemscheduleTituloConferencia"
                         android:layout_width="match_parent"
